@@ -1,0 +1,46 @@
+/*font-family: 'Dancing Script', cursive;
+font-family: 'Josefin Sans', sans-serif;*/
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-color: #D4F4FF;
+}
+
+h1, h2, h3 {
+    font-family: 'Dancing Script', cursive;
+}
+
+h1 {
+    font-size: 60px;
+    color: #663D12;
+}
+
+.navbar {
+    background-color: #663D12;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+.navbar-default .navbar-brand {
+    color: white;
+}
+
+footer {
+    background-color: orange;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    overflow:hidden;
+}
+
+.content {
+    background-color: #D6D6D6;
+}
+
+
+.name {
+    font-size: 50px;
+}
